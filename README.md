@@ -1,2 +1,2 @@
 # xthing
-IOT project  
+IOT project  for smarthome
